@@ -18,7 +18,6 @@ author:
 # Custom vars
 version:          0.0.1
 
-github:           
-  repo:           https://github.com/ingben/
+github:           https://github.com/ingben/
 
 archive:          '/archive'
