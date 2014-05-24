@@ -12,9 +12,13 @@ description:      'A blog about the stuff I do.'
 url:              http://ingben.github.io
 paginate:         5
 
+pages_list:
+	about: '/about'
+	archive: '/archive'
+	feed: '/atom.xml'
+
 author:
   name:           'Ingo Bente'
-#  url:            https://plus.google.com/u/0/106970872378113969694/
 
 # Custom vars
 version:          0.0.1
