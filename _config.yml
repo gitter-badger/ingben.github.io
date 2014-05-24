@@ -9,8 +9,8 @@ permalink:        pretty
 title:            ingben
 tagline:          'Hacking, Boardgames, Kites, Stuff'
 description:      'A blog about the stuff I do.'
-# url:              http://ingben.github.io
-baseurl:          /ingben
+url:              http://ingben.github.io
+#baseurl:          /ingben
 paginate:         5
 
 author:
