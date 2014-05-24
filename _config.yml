@@ -19,5 +19,5 @@ author:
 # Custom vars
 version:          0.0.1
 
-#github:           https://github.com/ingben/
-#  repo:           https://github.com/poole/lanyon
+github:           
+  repo:           https://github.com/ingben/
